@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.card{
+  margin: 0 auto;
+ color: black;
+}
+.al{
+ width: 80%;
+margin: 0 auto;
+ 
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  background-image: url("https://img.freepik.com/free-photo/3d-grunge-room-interior-with-spotlight-smoky-atmosphere-background_1048-11333.jpg?w=996&t=st=1701420705~exp=1701421305~hmac=4a8edc5eea914ce5c24a2a25782b4431c078af2c621f774a99f70031d9b0615a");
+  background-size: cover;
+  background-position: center;
+}
